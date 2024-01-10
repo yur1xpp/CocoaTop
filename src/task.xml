@@ -26,8 +26,6 @@
 	<true/>
 	<key>com.apple.managedconfiguration.profiled-access</key>
 	<true/>
-	<key>dynamic-codesigning</key>
-	<true/>
 	<key>com.apple.private.security.no-container</key>
 	<true/>
 </dict>
